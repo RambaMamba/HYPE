@@ -1,0 +1,114 @@
+.top{
+  margin-top: 0px;
+  background-image: url("hypebeast.jpg");
+  height: 1000px;
+  position: relative;
+
+}
+.top2{
+  margin-top: 0px;
+  background-image: url("hypebeast.jpg");
+  height: 1000px;
+  position: relative;
+
+}
+.SecondContainer{
+  margin-top: 0px;
+  background-color:#fffdd0;
+  height: 3500px;
+  position: relative;
+
+}
+.myCollection{
+  width: 500px;
+  margin-left: 40px;
+  border:1px solid black
+  float:left;
+
+}
+h4{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 60px;
+  color: #00022F;
+  margin:0px;
+  margin-left:30px;
+
+
+}
+p{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  color: #00022F;
+  margin:0px;
+  margin-left:30px;
+
+}
+.scroller{
+  position: absolute;
+  height: 190px;
+  right: 850px;
+  top: 800px;
+}
+
+.topRight{
+  position: absolute;
+  right: 100px;
+  top: 100px;
+  width: 350px;
+}
+
+
+.bottomLeft{
+  position: absolute;
+  left: 0px;
+  bottom: 50px;
+  width: 500px;
+}
+
+.name{
+  position: absolute;
+  height: 190px;
+  right: 500px;
+  top: 300px;
+
+}
+table{
+  margin-top: 0px;
+  top:0px;
+}
+.SupImg{
+  position: absolute;
+  height: 700px;
+  right: 600px;
+  top: 0px;
+}
+
+h1{
+  margin-top: 0px;
+  font-family: 'Bebas Neue', cursive;
+  text-align: center;
+  font-size: 120px;
+  padding-top: 720px;
+  color: #fffdd0;
+}
+
+body{
+  margin: 0;
+}
+
+h2{
+  margin-top: 0px;
+  font-family: 'Bebas Neue', cursive;
+  text-align: center;
+  font-size: 120px;
+  padding-top: 80px;
+  color: #00022F;
+}
+h3{
+  margin-top: 0px;
+  font-family: 'Bebas Neue', cursive;
+  text-align: center;
+  font-size: 120px;
+  padding-top: 80px;
+  color: #fffdd0;
+}
