@@ -12,6 +12,13 @@
   position: relative;
 
 }
+.bottom{
+  margin-top: 0px;
+  background-color:#000000;
+  height: 800px;
+  position: relative;
+
+}
 .SecondContainer{
   margin-top: 0px;
   background-color:#fffdd0;
@@ -22,10 +29,12 @@
 .myCollection{
   width: 500px;
   margin-left: 40px;
-  border:1px solid black
+  margin-bottom: 4px;
+  margin-top: 8px;
   float:left;
 
 }
+
 h4{
   font-family: 'Bebas Neue', cursive;
   font-size: 60px;
@@ -43,6 +52,43 @@ p{
   margin-left:30px;
 
 }
+.pwhite{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  color: #fffdd0;
+  text-align: left;
+  margin-left: 15px;
+
+}
+.TEST{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  color: #fffdd0;
+  text-align: left;
+  margin-left: 20px;
+
+}
+.GMAIL{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  color: #fffdd0;
+  text-align: left;
+  margin-left: 50px;
+}
+h6{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  color: #fffdd0;
+  text-align: left;
+  margin-top: 5px;
+  margin-left: -20px;
+}
+.myCollection2{
+  width: 200px;
+  margin-right: 180px;
+
+}
+
 .scroller{
   position: absolute;
   height: 190px;
@@ -110,5 +156,8 @@ h3{
   text-align: center;
   font-size: 120px;
   padding-top: 80px;
+  color: #fffdd0;
+}
+.headerWhite{
   color: #fffdd0;
 }
